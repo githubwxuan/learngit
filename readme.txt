@@ -4,4 +4,5 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Merge with no-ff.
+Save stash.
 
